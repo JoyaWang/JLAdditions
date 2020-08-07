@@ -5,7 +5,7 @@
 //  Copyright © 2016年 itcast. All rights reserved.
 //
 
-#import "NSAttributedString+CZAdditon.h"
+#import "NSAttributedString+CZAddition.h"
 
 @implementation NSAttributedString (CZAdditon)
 

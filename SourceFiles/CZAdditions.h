@@ -44,7 +44,6 @@
 
 // MARK: UIViewController
 #import "UIViewController+CZAddition.h" // 在当前视图控制器中添加子控制器，将子控制器的视图添加到 view 中
-#import "UIViewController+Extension.h" // 判断本视图控制器是否正在被显示
 
 // MARK: UIImage
 
