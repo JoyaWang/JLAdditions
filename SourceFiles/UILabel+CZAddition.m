@@ -9,11 +9,11 @@
 
 @implementation UILabel (CZAddition)
 
-+ (instancetype)cz_labelWithText:(NSString *)text fontSize:(CGFloat)fontSize color:(UIColor *)color {
++ (instancetype)cz_labelWithText:(NSString *)text font:(UIFont)font color:(UIColor *)color {
     UILabel *label = [[self alloc] init];
     
     label.text = text;
-    label.font = [UIFont systemFontOfSize:fontSize];
+    label.font = font
     label.textColor = color;
     label.numberOfLines = 0;
     

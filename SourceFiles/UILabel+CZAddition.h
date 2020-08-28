@@ -12,10 +12,10 @@
 /// 创建文本标签
 ///
 /// @param text     文本
-/// @param fontSize 字体大小
+/// @param font 字体
 /// @param color    颜色
 ///
 /// @return UILabel
-+ (instancetype)cz_labelWithText:(NSString *)text fontSize:(CGFloat)fontSize color:(UIColor *)color;
++ (instancetype)cz_labelWithText:(NSString *)text font:(UIFont)font color:(UIColor *)color;
 
 @end

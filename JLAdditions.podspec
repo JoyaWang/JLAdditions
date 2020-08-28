@@ -16,8 +16,8 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "JLAdditions"
-  spec.version      = "1.0.2"
-  spec.summary      = "整理的一些常用的分类方法"
+  spec.version      = "1.0.3"
+  spec.summary      = "添加快速创建Label时设置字体"
   spec.description  = <<-DESC
   整理的一些常用的分类方法,希望能够帮助到大家
                    DESC
