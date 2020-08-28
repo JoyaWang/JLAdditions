@@ -16,6 +16,6 @@
 /// @param color    颜色
 ///
 /// @return UILabel
-+ (instancetype)cz_labelWithText:(NSString *)text font:(UIFont)font color:(UIColor *)color;
++ (instancetype)cz_labelWithText:(NSString *)text font:(UIFont *)font color:(UIColor *)color;
 
 @end

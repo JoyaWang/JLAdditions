@@ -16,8 +16,8 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "JLAdditions"
-  spec.version      = "1.0.3"
-  spec.summary      = "添加快速创建Label时设置字体"
+  spec.version      = "1.3.1"
+  spec.summary      = "更新"
   spec.description  = <<-DESC
   整理的一些常用的分类方法,希望能够帮助到大家
                    DESC
@@ -47,7 +47,7 @@ Pod::Spec.new do |spec|
   # spec.watchos.deployment_target = "2.0"
   # spec.tvos.deployment_target = "9.0"
    # 源库资源文件所在位置
-  spec.source       = { :git => "https://github.com/JoyaWang/JLAdditions.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/JoyaWang/JLAdditions.git", :tag => "#{spec.version      = "1.3.1" }
   # 源库资源文件
   spec.source_files  = "SourceFiles", "SourceFiles/**/*.{h,m}"
   spec.exclude_files = "SourceFiles/Exclude"
