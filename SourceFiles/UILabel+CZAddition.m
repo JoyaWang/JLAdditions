@@ -14,6 +14,7 @@
     
     label.text = text;
     label.font = font;
+    
     label.textColor = color;
     label.numberOfLines = 0;
     
