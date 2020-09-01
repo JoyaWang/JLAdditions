@@ -13,7 +13,7 @@
     UILabel *label = [[self alloc] init];
     
     label.text = text;
-    label.font = font
+    label.font = font;
     label.textColor = color;
     label.numberOfLines = 0;
     
